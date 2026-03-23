@@ -1,4 +1,4 @@
-# TinyShell - RSA Shell
+# RSA Shell
 
 A simple, lightweight shell implementation written in C, featuring command execution, history navigation, and basic built-in commands.
 
